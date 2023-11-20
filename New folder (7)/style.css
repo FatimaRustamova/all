@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.div1{
+    width: 100%;
+    height: 650px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div2{
+    width: 50%;
+    height: 96%;
+    position: relative;
+}
+.div3{
+    width: 330px;
+    height: 230px;
+    background-color: black;
+    position: absolute;
+    z-index: 3;
+}
+.div4{
+    width: 330px;
+    height: 78%;
+    background-color: indianred;
+    position: absolute;
+    top: 40px;
+    left: 50px;
+    z-index: 1;
+}
+.div5{
+    width: 400px;
+    height: 400px;
+    background-color: bisque;
+    position: absolute;
+    bottom: 140px;
+    right: 100px;
+    z-index: 2;
+}
+.div6{
+    width: 350px;
+    height: 300px;
+    background-color: rgb(209, 189, 193);
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    z-index: 4;
+}
+.div3 p{
+    color: aliceblue;
+}

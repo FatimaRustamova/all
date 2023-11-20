@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  width: 100%;
+  padding: 50px 0;
+}
+section .container {
+  max-width: 1300px;
+  margin: auto;
+  padding: 0 32px;
+}
+section .container .topic {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+section .container .topic h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 45px;
+}
+section .container .topic ul {
+  display: flex;
+  gap: 50px;
+  margin-top: 20px;
+}
+section .container .topic ul li {
+  list-style-type: none;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+}
+section .container .web {
+  display: flex;
+  padding: 50px 0;
+  justify-content: space-between;
+}
+section .container .web .a1 {
+  width: 32%;
+  border-radius: 20px;
+  box-shadow: 0px 1px 60px -12px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 0px 1px 60px -12px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 1px 60px -12px rgba(0, 0, 0, 0.75);
+  position: relative;
+}
+section .container .web .a1 h2 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 25px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+section .container .web .a1 p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 25px;
+  color: gray;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+section .container .web .a1 img {
+  margin-bottom: 0;
+  width: 70%;
+}
+section .container .web .a1 div {
+  position: absolute;
+  width: 30px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 15px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  height: 30px;
+  background-color: aqua;
+  top: 20px;
+  right: 20px;
+}/*# sourceMappingURL=style.css.map */

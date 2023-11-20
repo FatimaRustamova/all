@@ -1,0 +1,10 @@
+let string = `Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti quos repellat ab enim aspernatur? Cumque error aspernatur, unde, obcaecati molestias maiores omnis ipsa sapiente, harum vero illum debitis ut maxime.rspiciatis ad placeat, ex aperiam recusandae consequatur. Incidunt corrupti nulla consectetur hic. Incidunt molestias dolores, eum amet vel sunt obcaecati accusamus eius. Similique inventore corporis sit molestias dolore ipsam autem.idunt exercitationem corrupti. Ea ratione cum perspiciatis, officia, perferendis nam eum nisi laboriosam numquam, nemo sapiente quam molestiae amet itaque quidem pariatur blanditiis!
+Corrupti numquam alias rem minima consectetur! Magni reprehenderit accusantium illum molestiae. Nihil vitae est blanditiis necessitatibus excepturi placeat. Quia tenetur amet doloremque iste veritatis harum cumque, officiis laboriosam iusto quidem?
+Commodi nostrum porro voluptatem harum, ducimus voluptatum. Eius ab sequi consequuntur fuga quae quibusdam laborum fugit fugiat placeat maxime. Magnam ipsum nam in aliquam maiores aspernatur facere dignissimos rem eos!
+Qui, excepturi nemo culpa magnam assumenda porro necessitatibus odit? Possimus molestias cupiditate nihil laborum cumque eius omnis iure sit pariatur nulla minus eveniet, corporis deserunt hic illo, nam accusantium consequuntur?
+Velit non voluptatem doloremque ea in sed minima eius est ducimus repudiandae. Qui molestiae a veniam nihil vero doloremque autem vitae inventore itaque id. Ducimus voluptatum voluptatem rem sit aspernatur.
+Repellat sunt repellendus ullam assumenda suscipit laboriosam laborum in saepe, doloribus, illum explicabo similique fugiat beatae quam, minus distinctio labore. Recusandae quaerat officia quia exercitationem inventore quos voluptatibus optio nulla?`
+
+let counter =0;
+
+for (let i=)
